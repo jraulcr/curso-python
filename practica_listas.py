@@ -39,3 +39,6 @@ print(miLista3[:])
 #Repite una lista N veces
 miLista1=["Ana","Juan","Rebeca"]*3
 print(miLista1[:])
+
+numeros_lista = list((1,2,3,4))
+print(numeros_lista)
